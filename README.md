@@ -401,10 +401,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name]
+**Project Maintainer**: [Arda Gonca]
 
 - GitHub: [@KoiosTR](https://github.com/KoiosTR)
-- Email: [Your Email]
+- Email: [ardagonca14@gmail.com]
 
 ---
 
